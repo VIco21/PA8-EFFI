@@ -3,6 +3,6 @@ package display;
 public class Display {
 
 	public Display() {
-		System.out.println("Objet cr par Victor");
+		System.out.println("Objet cr par Victor cecic est test1");
 	}
 }
